@@ -118,6 +118,8 @@ body {
 .description {
     align-items: center;
     padding-block: 20px;
+    margin-left: 20px;
+    width: 200px;
 }
 
 .sect-divs {
@@ -283,6 +285,7 @@ body {
     object-fit: cover;
     overflow: hidden;
     margin-block: 10px;
+    display: none;
 }
 
 .item-img img{
